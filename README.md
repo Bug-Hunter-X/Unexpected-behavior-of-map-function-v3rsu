@@ -1,0 +1,1 @@
+This example demonstrates the behavior of Swift's map function. The map function creates a new array containing the results of applying a transformation to each element of the original array. The original array remains unchanged. This is different from some other languages where map may modify the original array in-place.
